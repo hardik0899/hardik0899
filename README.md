@@ -1,7 +1,6 @@
 ### Hey! People 
 
-### This is Hardik Dua👋
-
+### I am Hardik Dua👋
 
 
 - This is my Github Profile.😉
