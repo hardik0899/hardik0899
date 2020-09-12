@@ -1,8 +1,6 @@
 ### Hey! Folks..
 
-
 ### My name is Hardik Dua 😎
-
 
 - This is my Github Profile.😉
 - I love building android apps using kotlin and java.💙
