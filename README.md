@@ -6,6 +6,8 @@
 ### My name is Hardik Dua 😎
 
 
+![](https://komarev.com/ghpvc/?username=hardik0899)
+
 
 - This is my Github Profile.😉
 - I love building android apps using kotlin and java.💙
