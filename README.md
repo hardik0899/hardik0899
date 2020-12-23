@@ -3,7 +3,7 @@
 
 
 
-### This is Hardik Dua 😎
+### My name is Hardik Dua 😎
 
 
 ![](https://komarev.com/ghpvc/?username=hardik0899)
